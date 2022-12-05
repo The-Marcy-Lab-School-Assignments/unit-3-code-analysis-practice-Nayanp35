@@ -23,3 +23,5 @@ forEach(['a', 'b', 'c'], console.log);
 <hr>
 
 Your explanation here...
+
+* The parameters for the function `forEach` are `arr` and `action`. The arguments that are passed through are the `array = ['a', 'b', 'c']` and `console.log`. When the function gets invoked, the arguments are passed through and then the for loop gets iterate over each element, it console logs each element over each element and increments to the next element. 
